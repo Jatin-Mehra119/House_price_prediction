@@ -1,4 +1,4 @@
-This Project is for learning how an end-to-end machine learning project works.
+## This Project is for learning how an end-to-end machine learning project works.
 In this notebook we will do the following steps-
 1.Understand the problem
 
@@ -15,7 +15,7 @@ In this notebook we will do the following steps-
 7.Present the solution.
 
 
-Task is to predict median house values in Californian districts, given a number of features from these districts.
+## Task is to predict median house values in Californian districts, given a number of features from these districts.
 
 housing.csv is the california Housing Price datasets from statLib repository.The data is old from 1990s.
 
